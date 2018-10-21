@@ -1,4 +1,4 @@
-# Simple.org
+# ElyceCole.com
 
 This repository houses the source code for the ElyceCole.com app website.
 
@@ -9,7 +9,7 @@ We use [Middleman](https://middlemanapp.com/) to build the static pages which ar
 To run the site on your own machine, simply clone the repo, install the packages necessary, and start up a Middleman server.
 
 ```
-$ git clone git@github.com:resolvetosavelives/elycecole.org.git
+$ git clone git@github.com:dburka/elycecole.git
 $ cd simple.org
 $ bundle install
 $ middleman server
