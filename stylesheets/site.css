@@ -897,8 +897,9 @@ b.subtitle {
 
 h2 {
   font-size: 36px;
-  font-weight: 100;
-  margin: 1em 0 0.5em 0; }
+  font-weight: 600;
+  margin: 1em 0 0.5em 0;
+  font-family: National; }
 
 h3 {
   font-size: 16px;
