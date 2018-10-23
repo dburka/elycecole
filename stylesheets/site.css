@@ -860,7 +860,11 @@ there.
   font-weight: 300; }
 @font-face {
   font-family: National;
-  src: url(fonts/National-Bold.otf);
+  src: url(fonts/National-Book.otf);
+  font-weight: 300; }
+@font-face {
+  font-family: National;
+  src: url(fonts/National-Semibold.otf);
   font-weight: 600; }
 body {
   font-size: 18px;
@@ -888,7 +892,8 @@ h1 {
 
 b.subtitle {
   color: #c82502;
-  font-family: National; }
+  font-family: National;
+  font-weight: 300; }
 
 h2 {
   font-size: 36px;
@@ -966,8 +971,7 @@ footer a:hover img {
     font-size: 18px; }
 
   h1 {
-    font-size: 82px;
-    font-weight: 100;
+    font-size: 64px;
     margin-top: 40px; }
 
   .intro {
