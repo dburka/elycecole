@@ -10,7 +10,7 @@ To run the site on your own machine, simply clone the repo, install the packages
 
 ```
 $ git clone git@github.com:dburka/elycecole.git
-$ cd simple.org
+$ cd elycecole
 $ bundle install
 $ middleman server
 ```
