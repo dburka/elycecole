@@ -23,7 +23,7 @@
 }
 
 body {
-    font-size: 18px;
+    font-size: 20px;
     font-family: AbhayaLibre, Garamond, Georgia, sans-serif;
 }
 
@@ -83,7 +83,7 @@ p, li {
 }
 
 .intro {
-    font-size: 22px;
+    font-size: 24px;
     font-weight: 100;
     line-height: 1.2em;
     margin-top: 1em;
@@ -93,7 +93,7 @@ p, li {
 
 .feature {
     height: 400px;
-    background: url(/images/elycecole.jpg) 50% 50%;
+    background: url(/images/elyce-portrait.jpg) 50% 30%;
     background-size: cover;
 }
 
@@ -144,7 +144,7 @@ footer a:hover img {
 /* For devices larger than 550px */
 @media (min-width: 880px) {
     body {
-        font-size: 18px;
+        font-size: 22px;
     }
     
     h1 {
@@ -154,9 +154,9 @@ footer a:hover img {
     }
     
     .intro {
-        font-size: 24px;
+        font-size: 30px;
         padding-top: 1em;
-        line-height: 1.4;
+        line-height: 1.3;
     }
     
     .half {
