@@ -934,7 +934,6 @@ p, li {
 .half {
   position: relative;
   left: 0;
-  border-top: 10px solid #f02526;
   padding-top: 20px; }
 
 .contents {
@@ -986,8 +985,8 @@ footer a:hover img {
 
   .half {
     margin-left: 50%;
-    -webkit-box-shadow: -20px 0 30px rgba(0, 0, 0, 0.06), inset 0 20px 0 0 #f02526;
-            box-shadow: -20px 0 30px rgba(0, 0, 0, 0.06), inset 0 20px 0 0 #f02526;
+    -webkit-box-shadow: -20px 0 30px rgba(0, 0, 0, 0.06);
+            box-shadow: -20px 0 30px rgba(0, 0, 0, 0.06);
     padding: 40px;
     border-top: none; }
 
